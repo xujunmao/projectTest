@@ -1,0 +1,21 @@
+.user-list {
+    list-style: none;
+    padding: 0;
+}
+
+.user-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+}
+
+.user-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-info span {
+    margin-right: 20px;
+}
+.delete:hover{
+    background-color: coral;
+}
